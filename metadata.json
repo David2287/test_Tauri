@@ -1,0 +1,5 @@
+
+{
+  "name": "AV Shield Pro",
+  "description": "A modern antivirus desktop client interface built with React and Tailwind CSS, designed to mimic a Tauri application. It provides a clean, responsive UI for monitoring system protection, running scans, and viewing threat history."
+}
